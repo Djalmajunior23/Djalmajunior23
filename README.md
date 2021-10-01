@@ -22,6 +22,7 @@
   <img align="center" alt="djalma-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="djalma-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="djalma-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="djalma-Aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/aws/aws-original.svg">
  
  </div> 
   

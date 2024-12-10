@@ -1,6 +1,7 @@
 ## Olá meu nome é Djalma Junior
-## Atualmente trabalho com suporte ao usuário.
+##Instrutor de Formação Profissional no SENAI CTTI - MG.
 ## Tenho me dedicado ao estudo em computação em nuvem, segurança da informação, Ia conversacionais, programação em python e java script, DeVops, Azure, Shellscript.
+#Desencolvimento de Sistemas com Linguagem com a Linguagem de Programação Java#
 ## Estou Buscando me aprofundar nos conhecimentos de metodologias ageis.
 
 
